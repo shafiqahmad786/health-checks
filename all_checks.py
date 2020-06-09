@@ -14,3 +14,8 @@ def main():
     sys.exit(0)
 	
 main()
+
+#all checks.py from blue kale
+def check_disk_full......
+bluekale changes
+
