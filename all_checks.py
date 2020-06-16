@@ -28,6 +28,7 @@ def main():
     checks=[
         (check_reboot, "Pending Reboot"),
         (check_root_full, "Root partition full"),
+	(Blue Kale changes,),
     ]
     everything_ok= True
     for check, msg in checks:
